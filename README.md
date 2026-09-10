@@ -1,3 +1,3 @@
 # Hash Table
 
-Hash table implementation in C.
+C implementation of a hash table.
